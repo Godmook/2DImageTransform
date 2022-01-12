@@ -8,5 +8,5 @@
 ### 사용 환경 <br />
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white" /> <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white" />
 
-\* OpenCV Version 4.5.3<br />
-\* Visual Studio 2019
+- OpenCV Version 4.5.3<br />
+- Visual Studio 2019
