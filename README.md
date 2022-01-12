@@ -3,7 +3,7 @@
 
 이미지 불러오기를 통하여 다른 이미지를 선택하여서 이미지 변환을 하실 수 있습니다.
 
-### 개발언어 <br />
+### 개발언어
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <br />
 ### 사용 환경 <br />
