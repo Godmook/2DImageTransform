@@ -5,7 +5,7 @@
 
 OpenCV 4.5.3 버전을 이용하였고, VS 2019 를 이용하여서 만들었습니다.
 
-개발언어
+개발언어</a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 
 1. 이미지 불러오기
